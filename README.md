@@ -1,2 +1,2 @@
-# SMU_Guildhall_Portfolio
+# SMU Guildhall Portfolio
 A portfolio displaying coding projects in C#.
