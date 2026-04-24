@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Testing creating projects using the CLI of the Terminal");
