@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Suryaditya Taneja\\Documents\\SMU_Guildhall_Portfolio\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "c:\\Users\\Suryaditya Taneja\\Documents\\SMU_Guildhall_Portfolio\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Suryaditya Taneja\\Documents\\SMU_Guildhall_Portfolio\\BasicProject\\BasicProject.csproj",
+      "projectName": "BasicProject",
+      "projectPath": "C:\\Users\\Suryaditya Taneja\\Documents\\SMU_Guildhall_Portfolio\\BasicProject\\BasicProject.csproj",
       "packagesPath": "C:\\Users\\Suryaditya Taneja\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Suryaditya Taneja\\Documents\\SMU_Guildhall_Portfolio\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\Suryaditya Taneja\\Documents\\SMU_Guildhall_Portfolio\\BasicProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Suryaditya Taneja\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\bin\Debug\net10.0\BasicProject.exe
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\bin\Debug\net10.0\BasicProject.deps.json
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\bin\Debug\net10.0\BasicProject.runtimeconfig.json
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\bin\Debug\net10.0\BasicProject.dll
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\bin\Debug\net10.0\BasicProject.pdb
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.AssemblyInfoInputs.cache
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.AssemblyInfo.cs
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.csproj.CoreCompileInputs.cache
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.sourcelink.json
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.dll
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\refint\BasicProject.dll
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.pdb
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\BasicProject.genruntimeconfig.cache
+C:\Users\Suryaditya Taneja\Documents\SMU_Guildhall_Portfolio\BasicProject\obj\Debug\net10.0\ref\BasicProject.dll
